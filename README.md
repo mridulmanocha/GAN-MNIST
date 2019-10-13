@@ -6,7 +6,7 @@ Network to replicate the MNIST dataset.
 
 In this repo you will find- 
 
-Images - Results of the program in mpng format
+images - results fo the program in png format
 
 and
-GAN_MNIST.ipynb - Code
+GAN_MNIST.ipynb - the code
